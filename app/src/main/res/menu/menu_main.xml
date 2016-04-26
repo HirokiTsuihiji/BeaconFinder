@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.code_embryo.app.android.beaconfinder.MainActivity">
+    <item
+        android:id="@+id/sort"
+        android:title="@string/sort_title"
+        android:icon="@mipmap/ic_sort_white"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beacon Finder</string>
+    <string name="sw_scan">Scan Beacons</string>
+    <string name="sort_title">並び替え</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="sort_dialog_items">
+        <item>デバイスアドレス</item>
+        <item>デバイスアドレス（降順）</item>
+        <item>UUID + Major + Minor</item>
+        <item>UUID + Major + Minor（降順）</item>
+    </string-array>
+</resources>

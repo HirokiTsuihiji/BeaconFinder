@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beacon Finder</string>
+    <string name="sw_scan">Scan Beacons</string>
+    <string name="sort_title">Sort Order</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="sort_dialog_items">
+        <item>by Device Address</item>
+        <item>by Device Address (Reverse)</item>
+        <item>by UUID + Major + Minor</item>
+        <item>by UUID + Major + Minor (Reverse)</item>
+    </string-array>
+</resources>
