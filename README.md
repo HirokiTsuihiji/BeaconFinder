@@ -3,7 +3,7 @@ iBeacon finder application for Android.
 
 ## Description
 
-Scan iBeacon devices, and get a device infomation.  
+Scan iBeacon devices, and get a device information.  
 Display the device address and beacon information (UUID, Major, Minor, RSSI, TxPower, proximity info).  
 
 ## Author
