@@ -1,0 +1,6 @@
+{
+  "name": "Beacon Finder",
+  "tagline": "find your Beacon devices",
+  "body": "# BeaconFinder\r\niBeacon finder application for Android.\r\n\r\n## Description\r\n\r\nScan iBeacon devices, and get a device information.  \r\nDisplay the device address and beacon information (UUID, Major, Minor, RSSI, TxPower, proximity info).  \r\n\r\n## Author\r\n\r\n[@HirokiTsuihiji](https://twitter.com/HirokiTsuihiji)\r\n\r\n## License\r\n\r\n[MIT](https://github.com/HirokiTsuihiji/BeaconFinder/blob/master/LICENSE)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
